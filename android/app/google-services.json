@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "405902265794",
+    "project_id": "arrow-9ad35",
+    "storage_bucket": "arrow-9ad35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405902265794:android:20988ec1f1b8c84ea95a5b",
+        "android_client_info": {
+          "package_name": "com.ic.shelfpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405902265794-gbaav81k7dltvjb79jmb87ff0k2v62bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC3tQwEtCVPG3_Zps0ikZ542noQ0AAf2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405902265794-3h4q34q07h851io15vqh194tvri4slqk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "405902265794-9stgngt2utr4p18gj8o3o722v8p0utvg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arrowMerchandising"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
